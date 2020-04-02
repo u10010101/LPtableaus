@@ -1,0 +1,13 @@
+Package: LPtableaus
+Type: Package
+Title: Print Simplex Tableaus
+Version: 0.1.0
+Author: FXY
+Maintainer: FXY <u10010101@63.com>
+Description: main functions:LPSolver,LP.Tableaus,Simplex.dual,table2tex.Have fun!
+License: GPL-2
+Encoding: UTF-8
+LazyData: False
+RoxygenNote: 7.1.0
+NeedsCompilation: no
+Packaged: 2020-03-31 15:26:57 UTC; FXY
